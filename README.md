@@ -12,7 +12,7 @@ A fully functional To-Do List web application deployed using a two-tier architec
 - **IAM** - Manages secure service permissions
 
 ## 🏗️ System Architecture
-![Architecture Diagram](./images/architecture-diagram.png)
+![Architecture Diagram](./images/AWS-Todo-App-Architecture.png)
 
 ## 📸 Screenshots
 
