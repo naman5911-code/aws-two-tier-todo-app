@@ -83,4 +83,4 @@ A fully functional To-Do List web application deployed using a two-tier architec
 ## 👨‍💻 Author
 **Namandeep Singh** - Computer Science Graduate
 
-[Portfolio]([your-portfolio-link](https://naman5911-code.github.io/.github.io/)) | [LinkedIn](www.linkedin.com/in/namandeep-singh-31b2412a1)
+[Portfolio](https://naman5911-code.github.io/.github.io/) | [LinkedIn](www.linkedin.com/in/namandeep-singh-31b2412a1)
